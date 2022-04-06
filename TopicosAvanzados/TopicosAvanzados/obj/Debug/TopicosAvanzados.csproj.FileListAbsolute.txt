@@ -1,0 +1,10 @@
+C:\Users\Felipe\source\repos\TopicosAvanzados\TopicosAvanzados\bin\Debug\TopicosAvanzados.exe.config
+C:\Users\Felipe\source\repos\TopicosAvanzados\TopicosAvanzados\bin\Debug\TopicosAvanzados.exe
+C:\Users\Felipe\source\repos\TopicosAvanzados\TopicosAvanzados\bin\Debug\TopicosAvanzados.pdb
+C:\Users\Felipe\source\repos\TopicosAvanzados\TopicosAvanzados\obj\Debug\TopicosAvanzados.csproj.AssemblyReference.cache
+C:\Users\Felipe\source\repos\TopicosAvanzados\TopicosAvanzados\obj\Debug\TopicosAvanzados.Form1.resources
+C:\Users\Felipe\source\repos\TopicosAvanzados\TopicosAvanzados\obj\Debug\TopicosAvanzados.Properties.Resources.resources
+C:\Users\Felipe\source\repos\TopicosAvanzados\TopicosAvanzados\obj\Debug\TopicosAvanzados.csproj.GenerateResource.cache
+C:\Users\Felipe\source\repos\TopicosAvanzados\TopicosAvanzados\obj\Debug\TopicosAvanzados.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\TopicosAvanzados\TopicosAvanzados\obj\Debug\TopicosAvanzados.exe
+C:\Users\Felipe\source\repos\TopicosAvanzados\TopicosAvanzados\obj\Debug\TopicosAvanzados.pdb

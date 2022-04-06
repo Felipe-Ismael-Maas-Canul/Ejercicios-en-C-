@@ -1,0 +1,16 @@
+C:\Users\Felipe\source\repos\Actividad4\Actividad4\obj\Debug\netcoreapp3.1\Actividad4.csproj.AssemblyReference.cache
+C:\Users\Felipe\source\repos\Actividad4\Actividad4\obj\Debug\netcoreapp3.1\Actividad4.Form1.resources
+C:\Users\Felipe\source\repos\Actividad4\Actividad4\obj\Debug\netcoreapp3.1\Actividad4.csproj.GenerateResource.cache
+C:\Users\Felipe\source\repos\Actividad4\Actividad4\obj\Debug\netcoreapp3.1\Actividad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\Actividad4\Actividad4\obj\Debug\netcoreapp3.1\Actividad4.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\Actividad4\Actividad4\obj\Debug\netcoreapp3.1\Actividad4.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\Actividad4\Actividad4\obj\Debug\netcoreapp3.1\Actividad4.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\Actividad4\Actividad4\bin\Debug\netcoreapp3.1\Actividad4.exe
+C:\Users\Felipe\source\repos\Actividad4\Actividad4\bin\Debug\netcoreapp3.1\Actividad4.deps.json
+C:\Users\Felipe\source\repos\Actividad4\Actividad4\bin\Debug\netcoreapp3.1\Actividad4.runtimeconfig.json
+C:\Users\Felipe\source\repos\Actividad4\Actividad4\bin\Debug\netcoreapp3.1\Actividad4.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\Actividad4\Actividad4\bin\Debug\netcoreapp3.1\Actividad4.dll
+C:\Users\Felipe\source\repos\Actividad4\Actividad4\bin\Debug\netcoreapp3.1\Actividad4.pdb
+C:\Users\Felipe\source\repos\Actividad4\Actividad4\obj\Debug\netcoreapp3.1\Actividad4.dll
+C:\Users\Felipe\source\repos\Actividad4\Actividad4\obj\Debug\netcoreapp3.1\Actividad4.pdb
+C:\Users\Felipe\source\repos\Actividad4\Actividad4\obj\Debug\netcoreapp3.1\Actividad4.genruntimeconfig.cache
